@@ -7,5 +7,5 @@ import { Component, Input } from '@angular/core';
 })
 export class ChildComponent {
   @Input() childProperty!: string;
- test="test";
+ 
 }
